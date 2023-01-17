@@ -2,7 +2,7 @@
 Graduated with a marketing degree from Singapore Management University but am trying to pivot my career into data analytics. This profile serves to showcase the projects I have done as well as to improve on my coding skills. Happy exploring!
 
 ### Technical Skills
-+ Python - Numpy, Pandas, Matplotlib, Seaborn, Sckit-learn
++ Python - Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 + R - tidyverse, ggplot2, dplyr
 + SQL - MySQL
 + Visualisation - Tableau, Power BI
