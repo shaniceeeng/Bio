@@ -13,4 +13,4 @@ Graduated with a marketing degree from Singapore Management University but am tr
 + [LinkedIn](https://www.linkedin.com/in/shanicengyishan/)
 + [Tableau Public](https://public.tableau.com/app/profile/shanice.yi.shan.ng)
 + [Past School Reports](https://drive.google.com/drive/folders/1a715taSUgw4F0QOD92W9ya-RS9t1l7Ew?usp=sharing)
-+ Resume
++ [Resume](https://drive.google.com/file/d/1xCOItXNmYcEprCVENilsNHmg9o7rVObh/view?usp=share_link)
